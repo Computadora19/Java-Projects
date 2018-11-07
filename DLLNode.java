@@ -1,9 +1,9 @@
-package ProgramingAssignment2;
+
 
 /**
  * 
  * @author estebanacosta
- *
+ * This class works in tandem with the DCLL class
  */
 
 public class DLLNode {
