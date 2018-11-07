@@ -1,10 +1,10 @@
-package ProgramingAssignment2;
+
 
 import java.util.NoSuchElementException;
 
 /**
  * @author estebanacosta
- *
+ * The purpose of this project is to create a doubly circular linked list
  */
 public class DCLL {
 
