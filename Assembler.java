@@ -3,6 +3,10 @@ import java.util.ArrayList;
 /***
  * @author esteban acosta
  */
+/**
+The purpose of this class is to convert a file that contains Assembly instruction into a file that contains binary in order
+to mimic the way a computer would process Assembly code
+**/
 import java.util.Scanner;
 public class Assembler {
 	/** Definitions of opcodes. LSB is at array index 0, so the opcodes are
