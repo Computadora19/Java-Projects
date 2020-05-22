@@ -1,5 +1,7 @@
 import java.util.ArrayList;
-
+   /**
+     * @author esteban acosta
+     */
 public class Knapsack
 {
 

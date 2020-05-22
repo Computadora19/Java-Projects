@@ -2,7 +2,9 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
-
+   /**
+     * @author esteban acosta
+     */
 public class KnapsackSolver
 {
     /**

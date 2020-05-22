@@ -1,7 +1,12 @@
 import java.util.ArrayList;
 
+   /**
+     * @author esteban acosta
+     */
+   
 public class Clause
 {
+ 
 
     private ArrayList<Literal> clause = new ArrayList<Literal>();
 

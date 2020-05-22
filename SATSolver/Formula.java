@@ -2,6 +2,10 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
+    /**
+     * @author esteban acosta
+     */
+    
 public class Formula
 {
 

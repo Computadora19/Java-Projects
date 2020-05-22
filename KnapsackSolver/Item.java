@@ -1,4 +1,6 @@
-
+   /**
+     * @author esteban acosta
+     */
 public class Item implements Comparable<Item>
 {
 
